@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moegamat Waggie a Junior Software Engineer
-- 👀 I’m interested in ... Cybersecurity
+- 👀 I’m interested in ... Software & Data Engineering
 - 🌱 I’m currently learning ... C# and React.
 
 <!---
