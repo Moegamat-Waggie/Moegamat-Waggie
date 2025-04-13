@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Moegamat Waggie a Junior Software Engineer
-- 👀 I’m interested in ... Software & Data Engineering
-- 🌱 I’m currently learning ... C# and React.
+- 👋 Hi, I’m @Moegamat Waggie a Full Stack Junior Software Engineer
+- 👀 I’m interested in ... Software Engineering & Cyber
+- 🌱 I’m currently learning ... JavaScript & C#.
 
 <!---
 Moegamat-Waggie/Moegamat-Waggie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
