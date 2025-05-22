@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Moegamat Waggie a Full Stack Junior Software Engineer
-- 👀 I’m interested in ... Software Engineering & Cyber
+- 👀 I’m interested in ... Software Engineering & Cyber Security
 - 🌱 I’m currently learning ... JavaScript & C#.
 
 <!---
